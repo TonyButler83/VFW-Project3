@@ -1,0 +1,65 @@
+/*
+VFW Project Web App Part 2
+by: David Butler
+date: 2/09/2012
+term: 1202
+*/
+
+#content{
+	width: 480px; 
+	height: 690px; 
+	overflow: scroll;
+	}
+
+body{
+	width: 570px;
+	margin: auto;
+	padding: 10px;
+	}
+
+
+h1 {
+	padding: 10px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: Times New Roman;
+	color: green;
+	letter-spacing: .05cm;
+	text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+h2 { 
+	color: #ED4F00;
+	}
+
+nav {
+	height: 15px;
+	margin: 10px;
+	}
+
+fieldset {
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFFFF), to(#C9C9C9));
+	}
+	
+legend {
+	font-weight: bold;
+	color: #ED4F00;
+	font-size: 17px;
+	}
+
+label {
+	font-family: cambria;
+	}
+	
+span {
+	font-style: italic;
+	}
+
+small {
+	font-style: italic;
+	}
+
+/*input[type=text] {
+	display: block;
+	}*/
+
